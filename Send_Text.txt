@@ -7,7 +7,7 @@ DELAY 300
 ENTER
 
 REM Compose New Message
-DELAY 1000
+DELAY 1000 
 COMMAND N
 DELAY 500
 
@@ -17,7 +17,7 @@ DELAY 500
 TAB
 
 REM Enter Message Content
-STRING "text message content here"
+STRING "thank you for your info "
 DELAY 500
 
 REM Send Message
